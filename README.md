@@ -1,6 +1,15 @@
 # dotfiles-windows
 Setup for windows machines
 
+## programs
+- everything, for easy file finding
+- nextcloud, to sync notes and files
+- thunderbird, email
+- firefox, browser
+- logseq, for daily notes
+- vscode, coding
+- kopia ui, for backups
+- keypass xc, for passwords
 
 ### typing keyboard settings
 - use US layout keyboard
